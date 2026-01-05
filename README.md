@@ -1,4 +1,7 @@
 LinkedIn Job Search: Auto-Match & Resume Scorer
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/464a5f61-300c-42de-8f92-ab1be22d2dd6" />
+
 This automated workflow streamlines the job application process by fetching LinkedIn job listings, comparing them against your professional resume using an AI Agent, and notifying you of high-quality matches.
 
 Workflow Overview
